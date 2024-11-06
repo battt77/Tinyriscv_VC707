@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Nov  6 19:20:35 2024
+# Process ID: 34892
+# Current directory: G:/tinyriscv/vivado_prj/tinyriscv.runs/impl_1
+# Command line: vivado.exe -log uart_loopback.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source uart_loopback.tcl -notrace
+# Log file: G:/tinyriscv/vivado_prj/tinyriscv.runs/impl_1/uart_loopback.vdi
+# Journal file: G:/tinyriscv/vivado_prj/tinyriscv.runs/impl_1\vivado.jou
+# Running On        :LAPTOP-5R2MI4GQ
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :Intel(R) Core(TM) i9-14900HX
+# CPU Frequency     :2419 MHz
+# CPU Physical cores:24
+# CPU Logical cores :32
+# Host memory       :16779 MB
+# Swap memory       :16642 MB
+# Total Virtual     :33422 MB
+# Available Virtual :5420 MB
+#-----------------------------------------------------------
+source uart_loopback.tcl -notrace

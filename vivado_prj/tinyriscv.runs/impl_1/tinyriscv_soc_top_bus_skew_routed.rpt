@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.1 (win64) Build 5076996 Wed May 22 18:37:14 MDT 2024
+| Date         : Wed Nov  6 20:20:31 2024
+| Host         : LAPTOP-5R2MI4GQ running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file tinyriscv_soc_top_bus_skew_routed.rpt -pb tinyriscv_soc_top_bus_skew_routed.pb -rpx tinyriscv_soc_top_bus_skew_routed.rpx
+| Design       : tinyriscv_soc_top
+| Device       : 7vx485t-ffg1761
+| Speed File   : -2  PRODUCTION 1.12 2014-09-11
+| Design State : Routed
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
